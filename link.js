@@ -6,7 +6,7 @@ this.link = Constraint.create(
 bodyA:bodyA.body.bodies[lastlink],
 pointA:{x:0, y:0},
 bodyB:bodyB,
-bodyB:{x:0, y:0},
+pointB:{x:0, y:0},
 length:-10,
 stiffness:0.01
 
